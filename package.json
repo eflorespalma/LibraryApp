@@ -1,0 +1,14 @@
+{
+  "name": "library",
+  "version": "1.0.0",
+  "description": "A simple app using NodeJS",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Edgar Flores P.",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
